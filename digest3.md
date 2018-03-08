@@ -1,4 +1,4 @@
-# Digest 2
+# Digest 3
 ##### Wenqin Lu
 
 [resource](http://nautil.us/blog/the-most-important-object-in-computer-graphics-history-is-this-teapot)
