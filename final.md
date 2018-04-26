@@ -12,4 +12,4 @@ This assumption certainly applies to the 3D modeling characters in CG films.
 "response"
 an online pinch face simulator
 
-let the audience to experience pinching face and know the degree between a good CG technique face and a face that will cause anxiety in human psychology
+- let the audience to experience pinching face and know the degree between a good CG technique face and a face that will cause anxiety in human psychology.
