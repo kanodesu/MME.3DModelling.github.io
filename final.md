@@ -1,15 +1,11 @@
-a critical question raised about a problematic aspect of this technology/a solution to a problem identified in your research
+# Online Pinch Face Simulator
 
-The uncanny valley
+Online pinch face simulator is an online simulator that people can pinch and make faces by their own aesthetics on a basic face model. This simulator is aiming to solve a question about 3D modeling between audience and film producers that many audience think the CG effects in films are fake, cheap and some of them even look horrifying. Some audience even criticize film producers through social networks. But actually it is really hard and difficult for films producers to make perfect CG effects because they need to overcome the [Uncanny Valley](uncanny.md) situation.
 
-- 1970,  proposed by Japanese robotics expert Mori Masahiro.
-If robots will become more and more like humans and they are similar to humans to a certain degree(95%), their slight imperfections in appearance will cause anxiety in human psychology.
+![uncanny valley](01.png)
 
-![uncanny valley](1.png)
 
-This assumption certainly applies to the 3D modeling characters in CG films.
 
-"response"
 
 an online pinch face simulator
 
